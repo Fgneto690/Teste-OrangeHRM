@@ -2,6 +2,10 @@
 
 Este projeto contém testes automatizados para o sistema OrangeHRM usando Cypress.
 
+O OrangeHRM Cypress Tests é um projeto de automação de testes desenvolvido para validar funcionalidades essenciais do sistema OrangeHRM usando Cypress. Ele inclui testes de login e cadastro de funcionários, garantindo a qualidade e confiabilidade do sistema.
+
+A estrutura do projeto é organizada para facilitar a manutenção e expansão dos testes, permitindo contribuições da comunidade. A automação visa reduzir erros manuais e melhorar a eficiência dos processos de validação.
+
 ## Estrutura do Projeto
 
 - `cypress/`
